@@ -20,3 +20,5 @@
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=asteristicco&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asteristicco&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asteristicco)](https://github.com/anuraghazra/github-readme-stats)
